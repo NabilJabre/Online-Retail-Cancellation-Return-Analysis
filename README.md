@@ -8,7 +8,8 @@ The primary objective is to identify **high-risk customers and products driving 
 
 * **Dataset Source:** [Online Retail II (Kaggle)](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset/data)  
 The final output is an **interactive Power BI dashboard** designed for business stakeholders.
-  
+
+* **Run Data Cleaning Notebook:**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NabilJabre/Online-Retail-Cancellation-Return-Analysis/blob/main/Data%20Quality%26Cleaning.ipynb)
 ---
 
 ## 🎯 Business Problem

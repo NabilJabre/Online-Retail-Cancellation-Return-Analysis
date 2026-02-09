@@ -10,6 +10,8 @@ The primary objective is to identify **high-risk customers and products driving 
 The final output is an **interactive Power BI dashboard** designed for business stakeholders.
 
 * **Run Data Cleaning Notebook:**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NabilJabre/Online-Retail-Cancellation-Return-Analysis/blob/main/Data%20Quality%26Cleaning.ipynb)
+
+* **Click here to download the Power BI Report:** [Download Report](https://drive.google.com/uc?export=download&id=1wnRleY1lAzWQnEwqDm55p9B66r9i_S0C)
 ---
 
 ## 🎯 Business Problem
